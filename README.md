@@ -72,11 +72,11 @@ Verify the Cloning Process: Once the cloning process is complete, navigate to th
 
 <h1>Git Basic commands<h1>
 <p>
- git status command: After making code changes you have to add the files for that you have to check which files are not added. For that use git status. The command git status can show you the status of your current file whether it is added or committed or pushed. 
- git add <FileName> command: When you get to know which files are not added by typing git status(red-colored files are not added). Then type git add <file name> to add files.
-  git commit -m <message> or git commit -am<message> command: After that, you have to commit those added files (type git status to check status, and green colored files are not yet committed). Type git commit -m <message> (message is nothing but a text that tells about what is changed in files) (there are many types of commit command you can check out git documentation in git official website). 
-   git push command: At last, you have to push your code changes in your local repo by typing git push and then make a pull request.
-   pull request: After pushing your code to your local repository you have to make a pull request to merge your code to the real repository. To do that just go to your local repo and click on the pull request.
+ git status command: After making code changes you have to add the files for that you have to check which files are not added. For that use git status. The command git status can show you the status of your current file whether it is added or committed or pushed. </br>
+ git add <FileName> command: When you get to know which files are not added by typing git status(red-colored files are not added). Then type git add <file name> to add files.</br>
+  git commit -m <message> or git commit -am<message> command: After that, you have to commit those added files (type git status to check status, and green colored files are not yet committed). Type git commit -m <message> (message is nothing but a text that tells about what is changed in files) (there are many types of commit command you can check out git documentation in git official website). </br>
+   git push command: At last, you have to push your code changes in your local repo by typing git push and then make a pull request.</br>
+   pull request: After pushing your code to your local repository you have to make a pull request to merge your code to the real repository. To do that just go to your local repo and click on the pull request. </br>
    
 </p>
 
