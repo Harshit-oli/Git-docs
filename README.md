@@ -70,7 +70,7 @@ Clone the Repository: Type git clone followed by the URL you copied earlier. For
 Verify the Cloning Process: Once the cloning process is complete, navigate to the directory where the repository was cloned to ensure that all files and folders have been copied correctly. You can use the ls command (on Mac or Linux) or dir command (on Windows) to list the contents of the directory.
 </p>
 
-<h1>Git Basic commands<h1>
+<h1>Git Basic commands</h1>
 <p>
  git status command: After making code changes you have to add the files for that you have to check which files are not added. For that use git status. The command git status can show you the status of your current file whether it is added or committed or pushed. </br>
  git add <FileName> command: When you get to know which files are not added by typing git status(red-colored files are not added). Then type git add <file name> to add files.</br>
